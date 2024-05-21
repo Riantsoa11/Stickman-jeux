@@ -174,6 +174,7 @@ def main_menu():
 
         pygame.display.flip()
         clock.tick(60)
+        #je ne suis pas 
 
 # Fonction pour créer un bouton avec du texte
 def create_button(text, rect, base_color, is_hovered):
